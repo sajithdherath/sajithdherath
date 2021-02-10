@@ -1,7 +1,7 @@
 ## Hello readers! I'm Sajith
 
 <p align="center">
-  <img src="gify.gif">
+  <img src="https://github.com/sajithdherath/sajithdherath/blob/master/giphy.gif">
 </p>
 
 I work as a Software Engineer in machine learning, and i believe in taking the extra time to create quality code from the beginning as it's a small initial investment that pays dividends in later maintenance and extension.
