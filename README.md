@@ -5,9 +5,9 @@
 </p>
 
 
-I am a Python backend engineer with 6 years of experience, dedicated to building reliable, high-performance systems that deliver results every time. My recent work focuses on integrating large language models (LLMs), AI automation, and agentic workflows-ensuring that the solutions I develop are both innovative and robust.\
+I am a Python backend engineer with 6 years of experience, dedicated to building reliable, high-performance systems that deliver results every time. My recent work focuses on integrating large language models (LLMs), AI automation, and agentic workflows-ensuring that the solutions I develop are both innovative and robust.
 
-Through hands-on experience with scalable architectures, I have developed a strong command of the design patterns, frameworks, and tools essential for dependable software at scale. I am committed to high-quality testing and rapid validation cycles, always striving to deliver solutions that are both correct and efficient.\
+Through hands-on experience with scalable architectures, I have developed a strong command of the design patterns, frameworks, and tools essential for dependable software at scale. I am committed to high-quality testing and rapid validation cycles, always striving to deliver solutions that are both correct and efficient.
 
 I enjoy tackling challenging problems at the intersection of backend engineering and artificial intelligence, and I’m always eager to learn and apply the latest technologies.
 
